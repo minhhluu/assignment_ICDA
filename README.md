@@ -20,10 +20,6 @@ Intergrated Circuit Design Application
 4. [Summary](#-summary)
 
 ## I. CMOS Inverter Layout (Microwind)
->1. Thiết kế layout CMOS với 1 PMOS và 1 NMOS.
-2. Gắn đầu vào A và đầu ra Y, nối nguồn VDD và GND đúng cách.
-3. Cấp xung vuông cho A, mô phỏng đầu ra Y.
-4. Chụp ảnh layout và waveform.
 
 ### 1. Circuit Design
 
@@ -75,11 +71,6 @@ Design Steps:
 
 ---
 ## II. 2-bit Flash ADC Design (DSCH)
-> Thiết kế mạch ADC sử dụng:
-+ Bộ so sánh mức ngưỡng (Vref) với tín hiệu analog (giả lập)
-+ Tạo 2-bit đầu ra nhị phân tương ứng với tín hiệu đầu vào
-1. Mô phỏng 4 mức tín hiệu analog khác nhau → đầu ra nhị phân: 00, 01, 10, 11.
-5. Ghi nhận kết quả mô phỏng.
 
 ### 1. Overview
 
@@ -102,12 +93,6 @@ This design converts an analog signal (`Vin`) into a 2-bit binary output using:
 
 ---
 ## III. Sequential Logic Circuit using D Flip-Flops (DSCH)
-> Thiết kế một máy trạng thái đồng bộ (FSM) nhận dạng chuỗi nhị phân 101.
-Yêu cầu:
-- Thiết kế dạng Moore FSM.
-- Vẽ sơ đồ logic mạch trên DSCH sử dụng Flip-Flop D và các cổng logic (AND, OR, NOT).
-- Tạo đầu vào X, xung nhịp Clock và hiển thị đầu ra Z.
-- Mô phỏng và kiểm tra kết quả trên waveform.
 
 ### 1. Overview
 
