@@ -1,0 +1,10 @@
+// DSCH 2.7f
+// 26-Apr-25 7:14:33 PM
+// D:\ChipDesign_Jetking\SEM2\Assignment\final_sem_ICDA\Ques_2.sch
+
+module Ques_2( );
+endmodule
+
+// Simulation parameters in Verilog Format
+
+// Simulation parameters
