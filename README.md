@@ -17,7 +17,7 @@ Intergrated Circuit Design Application
    - [2. Circuit Description](#2-circuit-description)
    - [3. Behavior Summary](#3-behavior-summary)
    - [4. Applications](#4-applications)
-4. [Summary](#-summary)
+4. [Summary](#summary)
 
 ## I. CMOS Inverter Layout (Microwind)
 
